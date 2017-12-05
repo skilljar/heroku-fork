@@ -1,5 +1,5 @@
 {
-  "name": "@skilljar/heroku-fork",
+  "name": "skilljar-heroku-fork",
   "version": "4.1.26",
   "description": "Heroku CLI plugin to fork an existing app into a new app.",
   "main": "index.js",
